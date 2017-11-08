@@ -4,6 +4,9 @@ This program will take in orders from customers and deplete stock from the store
 START:
 To start, enter 'node bamazonCustomer.js'. The user will be shown a table with all items and their respective quantities, that are available for purchase in the store.
 
+<img width="300" alt="screen shot 2017-11-07 at 7 48 55 pm" src="https://user-images.githubusercontent.com/24446599/32528201-5bff8db8-c3f7-11e7-90a7-f839bf017b4a.png">
+
+
 TO MAKE A PURCHASE:
 Under the table, the user will be shown the first question: "Select the item you'd like to purchase" along with a list of all available items to purchase. To select an item, simply scrow down using the down arrow key until the desired product is hightlighted, then hit 'enter'.
 
