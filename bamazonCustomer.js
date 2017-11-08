@@ -63,10 +63,10 @@ function buyMeMe() {
           for (var i = 0; i < results.length; i++) {
             if (results[i].product_name === answer.product) {
               chosenItem = results[i];
-              console.log(chosenItem);
+              // console.log(chosenItem);
             }
           }
-      console.log(answer);
+      // console.log(answer);
 
         // determine if we have enough in stock
         if (chosenItem.stock_quantity > parseInt(answer.quantity)) {
